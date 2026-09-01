@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Harsh Vardhan Tomar
 
-<!--
-**harsh-vardhan-tomar/harsh-vardhan-tomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
+💻 Focused on Data Structures & Algorithms
+⚡ Practicing Problem Solving in C++
+🤖 Exploring AI & Generative AI
+🌱 Learning and building consistently
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C • C++ • HTML • CSS • SQL • Git • GitHub
+
+## 📊 GitHub Stats
+
+![Harsh's GitHub stats](https://github-stats-extended.vercel.app/api?username=harsh-vardhan-tomar)
+
+## 🤝 Connect With Me
+
+<a href="https://www.linkedin.com/in/harsh-vardhan-tomar-180799325/">
+  <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Vardhan%20Tomar-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+
