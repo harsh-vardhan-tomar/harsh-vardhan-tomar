@@ -35,9 +35,5 @@
 <a href="https://www.linkedin.com/in/harsh-vardhan-tomar-180799325/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
 </a>
-&nbsp;
-<a href="https://leetcode.com/u/Harsh9250/" target="_blank">
-  <img src="https://img.shields.io/badge/-LeetCode-1a1a1a?style=flat-square&logo=leetcode&logoColor=FFA116" alt="leetcode" />
-</a>
 </p>
 
