@@ -21,7 +21,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=harsh-vardhan-tomar&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=harsh-vardhan-tomar&theme=radical&hide_border=false)<br/>
