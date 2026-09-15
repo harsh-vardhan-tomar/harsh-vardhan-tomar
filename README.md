@@ -16,7 +16,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,mysql,git,github" alt="my skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,mysql,git,github" alt="my skills" />
 </p>
 
 ---
