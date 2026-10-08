@@ -32,7 +32,7 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/harsh-vardhan-tomar-180799325/" target="_blank">
+<a href="https://www.linkedin.com/in/harsh-vardhan-tomar" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
 </a>
 </p>
